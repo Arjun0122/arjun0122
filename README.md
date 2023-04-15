@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 myself Arjun Jayan
+👀 I’m interested in the field of Data Science
+<br>
+🌱 I had completed my postgraduation in the field of Data science and computational intelligence
+<br>
+📫 Please reach me on arjunjayan0@gmail.com
 
 <!--
 **Arjun0122/arjun0122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
